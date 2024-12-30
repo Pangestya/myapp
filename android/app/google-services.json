@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053619602476",
+    "project_id": "keom-96ae5",
+    "storage_bucket": "keom-96ae5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053619602476:android:79660d2a92d0d06c383d89",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZODfg33kKHv75iyotnVq0Zg5YI4lCys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
